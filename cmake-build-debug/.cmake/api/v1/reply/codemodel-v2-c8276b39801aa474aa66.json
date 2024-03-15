@@ -1,0 +1,159 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "Networking",
+					"jsonFile" : "directory-Networking-Debug-94e14672aa1c5415af47.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Networking",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "TCPServer",
+					"jsonFile" : "directory-TCPServer-Debug-f930f25f891be28f923f.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "TCPServer",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "TCPClient",
+					"jsonFile" : "directory-TCPClient-Debug-03c1bf67ef1f7c5d06fd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "TCPClient",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TCPChat"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "Networking",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "TCPServer",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "TCPClient",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "Networking::@20af8fe841ac235eb447",
+					"jsonFile" : "target-Networking-Debug-ba10acbf5573795aa3ee.json",
+					"name" : "Networking",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "TCPClient::@b1e5a895c2a7ba1ab0a1",
+					"jsonFile" : "target-TCPClient-Debug-355917655670ddc3bf70.json",
+					"name" : "TCPClient",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "TCPServer::@88e2672fea6bf2e55770",
+					"jsonFile" : "target-TCPServer-Debug-68a920f119235ee9fa92.json",
+					"name" : "TCPServer",
+					"projectIndex" : 2
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug",
+		"source" : "C:/Users/w11/CLionProjects/TCPChat"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

@@ -1,0 +1,15 @@
+# ninja log v5
+1	299	7321692032590347	build.ninja	5e1a6b207acb27f7
+2	49	7320897149737725	Networking/CMakeFiles/Networking.dir/src/Base.cpp.obj	848494db12cd12b6
+8657	9976	7321512571559872	Networking/libNetworking.a	96d0b3a19ced568e
+9976	11192	7321512583633516	TCPServer/TCPServer.exe	77254d465499bcfd
+9	4875	7321512994556533	TCPClient/CMakeFiles/TCPClient.dir/main.cpp.obj	cc7df826427d7382
+4875	5514	7321513000975781	TCPClient/TCPClient.exe	45d0f1fea731cdfc
+29	7962	7321512551330847	TCPServer/CMakeFiles/TCPServer.dir/main.cpp.obj	38a5a06884101e16
+19	8657	7321512558290901	Networking/CMakeFiles/Networking.dir/src/server.cpp.obj	fc4424661a2f22f5
+13	8463	7321512556289657	Networking/CMakeFiles/Networking.dir/src/Sock.cpp.obj	31624573c1cf678c
+136	7192	7321856592078445	TCPServer/CMakeFiles/TCPServer.dir/main.cpp.obj	38a5a06884101e16
+50	7406	7321856594461940	Networking/CMakeFiles/Networking.dir/src/Sock.cpp.obj	31624573c1cf678c
+9	5995	7321857052306507	Networking/CMakeFiles/Networking.dir/src/server.cpp.obj	fc4424661a2f22f5
+5997	7517	7321857067802230	Networking/libNetworking.a	96d0b3a19ced568e
+7517	9161	7321857084217337	TCPServer/TCPServer.exe	77254d465499bcfd

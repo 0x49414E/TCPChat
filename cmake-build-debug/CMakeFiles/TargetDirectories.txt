@@ -1,0 +1,11 @@
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/Networking/CMakeFiles/Networking.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/Networking/CMakeFiles/edit_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/Networking/CMakeFiles/rebuild_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPServer/CMakeFiles/TCPServer.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPServer/CMakeFiles/edit_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPServer/CMakeFiles/rebuild_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPClient/CMakeFiles/TCPClient.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPClient/CMakeFiles/edit_cache.dir
+C:/Users/w11/CLionProjects/TCPChat/cmake-build-debug/TCPClient/CMakeFiles/rebuild_cache.dir
